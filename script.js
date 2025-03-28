@@ -12,7 +12,7 @@ You can write **bold** or *italic* text.
 3. Ordered list item 3
 
 ### Links
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://github.com/nikucse/markdown_view)
 
 ### Code
 Inline \`code\` example:
